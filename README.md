@@ -19,7 +19,8 @@ Package Includes:
 FiveM Ready Files
 READ ME.TXT
 
-9e169012374995285fee886248496256a3a6253e.png
+<img width="1923" height="1080" alt="Screenshot (374)" src="https://github.com/user-attachments/assets/971db518-086f-4679-9deb-98681ed668d2" />
+
 
 Fully OPTIMIZED:
 Gun Plug Script
